@@ -1,4 +1,6 @@
 puts "Hello, World"
 this is nik
 added this after creating branch "Version1"
-again adding this line to see merge conflict.
+adding this line to see merge conflict.
+again adding this line to know more about merge conflict.
+
