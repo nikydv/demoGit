@@ -6,4 +6,5 @@ again adding this line to know more about merge conflict.
 ==========================================================================================
 adding 1 more lines
 addding 3rd line
+adding 2nd line.
 
